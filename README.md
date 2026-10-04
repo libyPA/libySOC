@@ -53,6 +53,7 @@ This repository documents my practical cybersecurity projects, investigations, d
 * IOC Analysis
 * Incident Investigation
 * Basic Incident Response
+* Phishing Email Analysis
 
 ---
 
